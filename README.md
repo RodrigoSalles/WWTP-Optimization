@@ -16,7 +16,13 @@ Project developed with the objective of using metaheuristic algorithms to update
 
 
 ## General Information
-* This work originated a paper that was presented at the 48th Annual Conference of the IEEE Industrial Electronics Society - [IECON](https://iecon2022.org/) 2022, 17-23 October 2022 - Brussels - Belgium.
+* This work originated a paper that was presented at the 48th Annual Conference of the IEEE Industrial Electronics Society - [IECON 2022](https://iecon2022.org/), 17-23 October 2022 - Brussels - Belgium.
+* Program developed to provide, in real time, the reference value for the PI control of the biological reactor of a wastewater treatment plant (WWTP).
+* The program developed in Python optimizes the aeration system of a WWTP represented by the Benchmark Simulation Model no. 2 (BSM2).
+* Metaheuristic algorithms used:
+  * Genetic Algorithm (GA)
+  * Particle Swarm Optimization (PSO)
+  * Simulated Annealing (SA)
 
 ## Technologies Used
 - Tech 1 - version 1.0
