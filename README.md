@@ -2,10 +2,9 @@
 Project developed with the objective of using metaheuristic algorithms to update, online, the dissolved oxygen reference values for the PI control of the biological reactor of a wastewater treatment plant.
 
 ## Table of Contents
-* [General Info](#general-information)
+* [General Information](#general-information)
 * [Technologies Used](#technologies-used)
-* [Features](#features)
-* [Screenshots](#screenshots)
+* [Optimization framework](#Optimization-framework)
 * [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
@@ -33,11 +32,8 @@ Project developed with the objective of using metaheuristic algorithms to update
 
 
 ## Optimization framework
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
-
+Proposed optimization framework
+![Optimization framework](Figures/f3.png)
 
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
