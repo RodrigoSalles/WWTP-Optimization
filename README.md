@@ -32,8 +32,8 @@ Project developed with the objective of using metaheuristic algorithms to update
 
 
 ## Optimization framework
-Proposed optimization framework
-![Optimization framework](Figures/f3.png=100x20)
+* Proposed optimization framework
+![Optimization framework](Figures/f3.png)
 
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
