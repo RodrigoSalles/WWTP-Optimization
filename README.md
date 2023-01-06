@@ -1,6 +1,5 @@
 # Dynamic Setpoint Optimization Using Metaheuristic Algorithms for Wastewater Treatment Plants
-Project developed with the objective of using metaheuristic algorithms to update, online, the dissolved 
-oxygen reference values for the PI control of the biological reactor of a wastewater treatment plant.
+Project developed with the objective of using metaheuristic algorithms to update, online, the dissolved oxygen reference values for the PI control of the biological reactor of a wastewater treatment plant.
 
 ## Table of Contents
 * [General Info](#general-information)
