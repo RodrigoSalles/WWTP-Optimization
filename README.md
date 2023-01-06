@@ -6,7 +6,6 @@ Project developed with the objective of using metaheuristic algorithms to update
 * [Technologies Used](#technologies-used)
 * [Optimization framework](#Optimization-framework)
 * [Setup](#setup)
-* [Usage](#usage)
 * [Results](#Results)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
