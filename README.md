@@ -16,12 +16,7 @@ Project developed with the objective of using metaheuristic algorithms to update
 
 
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
+* This work originated a paper that was presented at the 48th Annual Conference of the IEEE Industrial Electronics Society - [IECON](https://iecon2022.org/) 2022, 17-23 October 2022 - Brussels - Belgium.
 
 ## Technologies Used
 - Tech 1 - version 1.0
