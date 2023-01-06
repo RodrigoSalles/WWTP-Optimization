@@ -25,12 +25,14 @@ Project developed with the objective of using metaheuristic algorithms to update
   * Simulated Annealing (SA)
 
 ## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+- Python - version 3.8.8
+- Keras - version 2.6.0
+- TensorFlow - version 2.6.0
+- Benchmark Simulation Model no. 2 (BSM2)
+- MATLAB/Simulink - version 2021a
 
 
-## Features
+## Optimization framework
 List the ready features here:
 - Awesome feature 1
 - Awesome feature 2
