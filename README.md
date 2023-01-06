@@ -57,30 +57,29 @@ Variation of aeration energy consumption in a three-day sample:
 
 
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+The project was completed, and the results were presented in the aforementioned paper.
 
 
 ## Room for Improvement
 Include areas you believe need improvement / could be improved. Also add TODOs for future development.
 
 Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
-
-To do:
-- Feature to be added 1
-- Feature to be added 2
+- The results indicate a reduction in the consumption of aeration energy, but this reduction can lead to the worsening of other factors related to the treatment of wastewater. For applications in real situations other factors must be considered, in addition to the aeration energy, in a multiobjective optimization.
+- A different control could be used for the aeration system. Possibly the association of different control techniques and metaheuristic algorithms would provide better results.
+- It would be interesting to use other metaheuristic algorithms for this problem.
 
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+* This research was supported by the ERDF and national funds through the project "PLATAFORMA DE ESTIMAÇÃO, CONTROLO E OTIMIZAÇÃO DE ESTAÇÕES DE TRATAMENTO DE ÁGUAS RESIDUAIS" - SYNAPPS (CENTRO-01-0247-FEDER-046978), and by Fundação para a Ciência e a Tecnologia (FCT) under the project UIDB/00048/2020.
+* Institute of Systems and Robotic - ISR 
+* DEEC - University of Coimbra - Portugal.
 
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Rodrigo Salles. Email: engenharia.salles@gmail.com 
+
+...feel free to contact me!
+
 
 
 <!-- Optional -->
