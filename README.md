@@ -53,7 +53,7 @@ Project developed with the objective of using metaheuristic algorithms to update
 ## Results
 Variation of aeration energy consumption in a three-day sample:
 
-<img src="Figures/f4.png"  width="500" height="400">
+<img src="Figures/f4.png">
 
 
 ## Project Status
