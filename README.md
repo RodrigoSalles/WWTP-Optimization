@@ -38,9 +38,15 @@ Project developed with the objective of using metaheuristic algorithms to update
 
 
 ## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
+* To run the optimization model proposed in the article, the BSM2 simulator must be installed. More information about the simulator, its installation and operation can be found here https://github.com/wwtmodels and here https://wwtmodels.pubpub.org.
+* To obtain the BSM2 surrogate function, run the notebook data_AE, present in the “general” folder. By running the notebook cells in sequence an artificial neural network will be trained. You can use the model model_ann_AE3.h5 already trained, present in the same folder. This model must be added to the directory that will be opened by MATLAB/Simulink.
+* With the BSM2 installed, open the Simulink model OTZ_bsm2_cl, present in the General folder.
+* For each analyzed algorithm, Genetic Algorithm (GA), Particle Swarm Optimization (PSO) and Simulated Annealing (SA), there is a folder with their respective programs. All these programs must be in the same directory.
+* Start the Simulink model OTZ_bsm2_cl, and then run the following programs:
+   * To implement GA optimization, run: teste_GA_09_02
+   * To implement SA optimization, run: annealing
+   * To implement PSO optimization, run: PSO_main
 
-Proceed to describe how to install / setup one's local environment / get started with the project.
 
 
 ## Usage
