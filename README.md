@@ -7,6 +7,7 @@ Project developed with the objective of using metaheuristic algorithms to update
 * [Optimization framework](#Optimization-framework)
 * [Setup](#setup)
 * [Usage](#usage)
+* [Results](#Results)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
@@ -49,11 +50,10 @@ Project developed with the objective of using metaheuristic algorithms to update
 
 
 
-## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
+## Results
+Variation of aeration energy consumption in a three-day sample:
 
-`write-your-code-here`
+<img src="Figures/f4.png"  width="500" height="400">
 
 
 ## Project Status
